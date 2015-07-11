@@ -1,0 +1,31 @@
+{
+  "name": "astro-browserify",
+  "version": "1.0.0",
+  "description": "Astro module for executing browsersify",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "astro test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://CollinEstes@github.com/CollinEstes/astro-browserify.git"
+  },
+  "keywords": [
+    "astro",
+    "browserify",
+    "asset",
+    "pipeline"
+  ],
+  "author": "Collin Estes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CollinEstes/astro-browserify/issues"
+  },
+  "homepage": "https://github.com/CollinEstes/astro-browserify#readme",
+  "devDependencies": {
+    "astro": "^0.3.5"
+  }
+}
